@@ -1,3 +1,9 @@
 ¿Cuál es la diferencia entre compilación e interpretación?
 	En la compilación se tiene como objetivo crear un programa binario a partir de un codigo fuente.
 	En la interpretación no se crea un binario, si no que va traduciendo el programa a medida que es necesario.
+
+¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+	Ambos son lenguajes interpretados, en el caso del fichero .sh se indica el interprete en el mismo archivo, mientras que en el .rb el interprete se deberia de indicar externamente.
+
+¿Qué significado tiene la primera linea del fichero helloWorld.sh?
+	Indica el interprete que utiliza  (/bin/bash)
