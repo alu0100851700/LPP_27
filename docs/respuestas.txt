@@ -1,1 +1,3 @@
-Trabajo en equipo con git
+¿Cuál es la diferencia entre compilación e interpretación?
+	En la compilación se tiene como objetivo crear un programa binario a partir de un codigo fuente.
+	En la interpretación no se crea un binario, si no que va traduciendo el programa a medida que es necesario.
